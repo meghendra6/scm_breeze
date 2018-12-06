@@ -93,6 +93,7 @@ git_log_alias="gl"
 git_log_all_alias="gla"
 git_log_stat_alias="glst"
 git_log_graph_alias="glg"
+git_log_patch_alias="glpa"
 git_show_alias="gsh"
 git_show_summary="gsm"  # (gss taken by git status short)
 git_stash_alias="gash"
